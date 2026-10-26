@@ -1,0 +1,13 @@
+# Variables de entorno (contienen credenciales)
+.env
+.env.*
+!.env.example
+
+# Binarios
+/bin/
+*.exe
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
